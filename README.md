@@ -5,8 +5,7 @@
 ***
 
 * Cafeteria food master
-> `In this project i had created the web graphic user interface , where a person can submit the money into cafeteria office and can do order of food, after confirmation a decent    >amout will be deducted from account and money will automatic get updated into database.
->In this project every student will be having unique library id from where every data of him/her can be seen.`
+> `In this project i had created the web graphic user interface , where a person can submit the money into cafeteria office and can do order of food, after confirmation a decent    amout will be deducted from account and money will automatic get updated into database. In this project every student will be having unique library id from where every data of him/her can be seen.`
 
 ### Some ScreenShots
 >You can view the main page 
