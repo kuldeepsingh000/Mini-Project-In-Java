@@ -1,15 +1,15 @@
 ## MiniProject
 ***
-* Candidate Management System Based on the Marks.
+##### Candidate Management System Based on the Marks.
 * ` This is a console based mini project, in backend for storing the data i have used jdbc.`
 ***
 
-* Cafeteria food master
+##### Cafeteria food master
 > `In this project i had created the web graphic user interface , where a person can submit the money into cafeteria office and can do order of food, after confirmation a decent    amout will be deducted from account and money will automatic get updated into database. In this project every student will be having unique library id from where every data of him/her can be seen.`
 
-### Some ScreenShots
->You can view the main page 
+#### Some ScreenShots
 
+>You can view the main page 
 >![photo](https://github.com/kuldeepsingh000/Mini-Project-In-Java/blob/master/Cafeteria%20Food%20Master/MainPage.png)
 
 >CompleteCustomerDetails
